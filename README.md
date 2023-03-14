@@ -14,3 +14,7 @@ TODO:
   - Nested Item 1
   - Nested Item 2
 - Item 3
+
+## Word Cloud Visualization
+
+Below images are the examples of the frequencies of words appear the most in two categories: Programming Language and Database. Common keywords for Database are: data, query, sql, object, db, .etc.., and common keywords for Programming Language are: programming language, type, funciton, compiler, .etc.. You can file the rest categories' world clouds in `./data_analysis/wordcloud_visualization/`
