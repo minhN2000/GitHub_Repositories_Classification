@@ -20,6 +20,6 @@ Below images are the examples of the frequencies of words appear the most in two
 
 
 <p float="left">
-  <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/result/wordcloud_visualization/database_wordcloud.png" width="400" height="400"/>
+  <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/result/wordcloud_visualization/database_wordcloud.png" width="400" height="400" style="margin-right: 20px;"/>
   <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/result/wordcloud_visualization/pl_wordcloud.png" width="400" height="400"/> 
 </p>
