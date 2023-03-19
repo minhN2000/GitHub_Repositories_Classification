@@ -9,7 +9,7 @@ Classify GitHub Repositories into 7 groups: database, framework, plugin, program
 The data is collected from GitHub including 13,000 training repositories. The dataset has been cleaned, and the cleaning process will be announced.
 
 TODO:
-- Apply Transformer Embed with multiple term and compare the performace
+- Apply Distill Knowledge (combine Bert and DistilBert) and Quantization
 - separate training and data-processing processes
 
 
@@ -17,7 +17,9 @@ TODO:
 
 Below images are the examples of the frequencies of words appear the most in two categories: Programming Language and Database. Common keywords for Database are: data, query, sql, object, db, .etc.., and common keywords for Programming Language are: programming language, type, funciton, compiler, .etc.. You can file the rest categories' world clouds in `./data_analysis/wordcloud_visualization/`
 
-<div style="display:flex;flex-direction:row">
-  <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/data_analysis/wordcloud_visualization/database_wordcloud.png" style="margin-right:10px" />
-  <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/data_analysis/wordcloud_visualization/pl_wordcloud.png" />
-</div>
+
+
+<p float="left">
+  <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/result/wordcloud_visualization/database_wordcloud.png" width="150" />
+  <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/result/wordcloud_visualization/pl_wordcloud.png" width="150" /> 
+</p>
