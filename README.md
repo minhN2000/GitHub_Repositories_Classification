@@ -23,3 +23,9 @@ Below images are the examples of the frequencies of words appear the most in two
   <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/result/wordcloud_visualization/database_wordcloud.png" width="400" height="400" style="margin-right: 20px;"/>
   <img src="https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/result/wordcloud_visualization/pl_wordcloud.png" width="400" height="400"/> 
 </p>
+
+## Result
+
+After applying DistilBert model, the accuracy improve up to ~88% compare with ~85% from applying Bidirectional LSTM. Below is the confusion matrix for the classification
+
+![confusion matrix](https://github.com/minhN2000/GitHub_Repositories_Classification/blob/main/result/confusion_matrix/confusion%20matrix.png)
